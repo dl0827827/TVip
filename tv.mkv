@@ -52,13 +52,6 @@ https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w2032123611.m3u
 https://zjizeoupprliv.vcdn.cloud/live/vnews/chunklist_w1515940883.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="BEAR TV" tvg-logo="https://i.ibb.co/fD13MRN/BEARTV.png" ,BEAR TV
-http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="ksport1hd" group-title="BEAR TV" tvg-logo="https://i.ibb.co/Yd4Yr8X/BEARTVPLUS2.png" ,BEAR TV + 
-http://b4tv.live/b4tv/b4tv/1.m3u8
-
-
-
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/NYSr7Kn/VTVCAB1-BEARTV.png",VTVCab1 - Vie GIẢI TRÍ
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/zn7tNfS/phim-Viet-BEARTV.png",ON PHIM VIỆT
@@ -247,6 +240,8 @@ http://sg.tinchuanchuaanh.com:8080/CARTOON_NETWORK_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="happykids"  group-title="KÊNH THIẾU NHI" tvg-logo="https://i.ibb.co/DYFXjGY/Happy-Kids-BEARTV.png",Happy Kids
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vtsstr7.tv24.vn/live/smil:Happy_Kids.smil/chunklist_w820020360_b1692000.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="boomerang" group-title="KÊNH THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Boomerang HD
+http://sg.tinchuanchuaanh.com:8080/BOOMERANG_HD/index.m3u8
 
 
 
@@ -426,7 +421,7 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/DONGNAI1-SD-ABR/HTV-ABR/DONGNAI1-SD-7
 https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/3N22Nd4/TH-T-BEARTV.png", Đồng Tháp
 #EXTVLCOPT:http-user-agent="BearTV"
-https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist_w1345752229.m3u8
+http://202.43.109.144:1935/thdtradio/thdtradio/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Fm6ZT1J/thdt2-BEARTV.png", Đồng Tháp 2 - Miền Tây
 #EXTVLCOPT:http-user-agent="BearTV"
 http://202.43.109.145:1935/thdt2/thdt2/chunklist_w1998888776.m3u8
@@ -485,9 +480,9 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8|Referer=http://sctvon
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="QUỐC TẾ TỔNG HỢP" tvg-logo="https://i.ibb.co/Q8NX9GC/kix-BEARTV.png", Kix HD
 #EXTVLCOPT:http-user-agent="BearTV"
-https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+https://code.vthanhtivi.pw/getlink/fptplay/kix/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="QUỐC TẾ TỔNG HỢP" tvg-logo="https://i.ibb.co/grTy13N/Animal-Planet-BEARTV.png", Animal Planet
-https://e4.endpoint.cdn.sctvonline.vn/hls/animalplanet/index.m3u8|Referer=http://sctvonline.vn/
+http://sg.tinchuanchuaanh.com:8080/ANIMAL_PLANET_HD/index.m3u8
 #EXTINF:-1  tvg-id="planetearthhd" group-title="QUỐC TẾ TỔNG HỢP" tvg-logo="https://i.ibb.co/BgmV1f8/Planet-earth-BEARTV.png",Planet Earth
 #EXTVLCOPT:http-user-agent="BearTV"
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8|Referer=http://sctvonline.vn/
@@ -505,7 +500,7 @@ https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/fashiontv/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="discoveryhd" group-title="QUỐC TẾ TỔNG HỢP" tvg-logo="https://i.ibb.co/PYRgmQB/Discovery-BEARTV.png", Discovery Channel
 #EXTVLCOPT:http-user-agent="BearTV"
-https://e4.endpoint.cdn.sctvonline.vn/hls/discovery/index.m3u8|Referer=http://sctvonline.vn/
+http://sg.tinchuanchuaanh.com:8080/DISCOVERY_HD/index.m3u8
 #EXTINF:-1 tvg-id="tv5monde" group-title="QUỐC TẾ TỔNG HỢP" tvg-logo="https://i.ibb.co/HnBxLwB/TV5-Monde-BEARTV.png", TV5MONDE
 #EXTVLCOPT:http-user-agent="BearTV"
 https://e4.endpoint.cdn.sctvonline.vn/hls/tv5/index.m3u8|Referer=http://sctvonline.vn/
@@ -538,37 +533,6 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/abc/index.m3u8|Referer=http://sctvonli
 https://e4.endpoint.cdn.sctvonline.vn/hls/discoveryasia/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 
-
-#EXTINF:-1 group-title="ON EVENT" tvg-logo="https://i.ibb.co/5FSPH6k/on-plus-BEARTV.png",ON Plus TV 01
-https://liveh12.vtvcab.vn/hls/VSTV1_FASTCHANNEL/03.m3u8
-#EXTINF:-1 group-title="ON EVENT" tvg-logo="https://i.ibb.co/5FSPH6k/on-plus-BEARTV.png",ON Plus TV 02
-https://liveh12.vtvcab.vn/hls/VSTV2_FASTCHANNEL/03.m3u8
-#EXTINF:-1 group-title="ON EVENT" tvg-logo="https://i.ibb.co/5FSPH6k/on-plus-BEARTV.png",ON Plus TV 03
-https://liveh12.vtvcab.vn/hls/VSTV3_FASTCHANNEL/03.m3u8
-#EXTINF:-1 group-title="ON EVENT" tvg-logo="https://i.ibb.co/5FSPH6k/on-plus-BEARTV.png",ON Plus TV 04
-https://liveh12.vtvcab.vn/hls/VSTV4_FASTCHANNEL/03.m3u8
-#EXTINF:-1 group-title="ON EVENT" tvg-logo="https://i.ibb.co/5FSPH6k/on-plus-BEARTV.png",ON Plus TV 05
-https://liveh12.vtvcab.vn/hls/VSTV5_FASTCHANNEL/03.m3u8
-#EXTINF:-1 group-title="ON EVENT" tvg-logo="https://i.ibb.co/5FSPH6k/on-plus-BEARTV.png",ON Plus TV 06
-https://liveh12.vtvcab.vn/hls/VSTV6_FASTCHANNEL/03.m3u8
-#EXTINF:-1 group-title="ON EVENT" tvg-logo="https://i.ibb.co/5FSPH6k/on-plus-BEARTV.png",ON Plus TV 07
-https://liveh12.vtvcab.vn/hls/VSTV7_FASTCHANNEL/04.m3u8
-#EXTINF:-1 group-title="ON EVENT" tvg-logo="https://i.ibb.co/5FSPH6k/on-plus-BEARTV.png",ON Plus TV 08
-https://liveh12.vtvcab.vn/hls/VSTV8_FASTCHANNEL/03.m3u8
-#EXTINF:-1 group-title="ON EVENT" tvg-logo="https://i.ibb.co/5FSPH6k/on-plus-BEARTV.png",ON Plus TV 09
-https://liveh12.vtvcab.vn/hls/VSTV9_FASTCHANNEL/03.m3u8
-#EXTINF:-1 group-title="ON EVENT" tvg-logo="https://i.ibb.co/5FSPH6k/on-plus-BEARTV.png",ON Plus TV 10
-https://liveh12.vtvcab.vn/hls/VSTV10_FASTCHANNEL/03.m3u8
-
-
-#EXTINF:-1 group-title="360 EVENT" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017184627/cd3d4c1e88ff_480_270.png",TV360 + 1
-http://live-zlr1.tv360.vn/manifest/sukien/playlist_1080p-5M.m3u8
-#EXTINF:-1 group-title="360 EVENT" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017310434/c702b55e7aa8_480_270.png",TV360 + 2
-http://live.tv360.vn/manifest/u23-dubaicup2/playlist_U23-dubaicup2-360p.m3u8
-#EXTINF:-1 group-title="360 EVENT" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_480_270.png",TV360 + 3
-http://live-ali4.tv360.vn/manifest/Su_Kien_3/playlist_1080p.m3u8
-#EXTINF:-1 group-title="360 EVENT" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_480_270.png",TV360 + 4
-http://live-ali4.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 
 
 #EXTINF: 0 tvg-id="" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/JrrmZdB/onegolf-HD-BEARTV.png", ONE GOLF HD
