@@ -500,7 +500,7 @@ https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/fashiontv/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="discoveryhd" group-title="QUỐC TẾ TỔNG HỢP" tvg-logo="https://i.ibb.co/PYRgmQB/Discovery-BEARTV.png", Discovery Channel
 #EXTVLCOPT:http-user-agent="BearTV"
-http://sg.tinchuanchuaanh.com:8080/DISCOVERY_HD/index.m3u8
+https://e4.endpoint.cdn.sctvonline.vn/hls/discovery/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="tv5monde" group-title="QUỐC TẾ TỔNG HỢP" tvg-logo="https://i.ibb.co/HnBxLwB/TV5-Monde-BEARTV.png", TV5MONDE
 #EXTVLCOPT:http-user-agent="BearTV"
 https://e4.endpoint.cdn.sctvonline.vn/hls/tv5/index.m3u8|Referer=http://sctvonline.vn/
