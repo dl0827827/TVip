@@ -463,8 +463,8 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/DONGNAI1-SD-ABR/HTV-ABR/DONGNAI1-SD-7
 #EXTVLCOPT:http-user-agent="BearTV"
 https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/3N22Nd4/TH-T-BEARTV.png", Đồng Tháp
-#EXTVLCOPT:http-user-agent="BearTV"
-http://202.43.109.144:1935/thdtradio/thdtradio/chunklist.m3u8
+https://618b88f69e53b.streamlock.net/THDT/thdttv/media_w215395169_20609.ts
+https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist_w215395169.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Fm6ZT1J/thdt2-BEARTV.png", Đồng Tháp 2 - Miền Tây
 #EXTVLCOPT:http-user-agent="BearTV"
 http://202.43.109.145:1935/thdt2/thdt2/chunklist_w1998888776.m3u8
@@ -484,7 +484,7 @@ https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/0XXxcNv/CANTHO-BEARTV.png", Cần Thơ
 https://live.canthotv.vn/live/tv_web/chunklist_w876738067.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/0XXxcNv/CANTHO-BEARTV.png", Cần Thơ (Sv2)
-https://live.canthotv.vn/live/tv_web/playlist.m3u8
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/CANTHO-SD-ABR/playlist.m3u8?st=P2S3AqqGjRsF04yxnwU3hg&e=1689450686
 
 #EXTINF:-1 tvg-id="soctrang" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/T8mqnnF/soctrang1-BEARTV.png", Sóc Trăng 1
 #EXTVLCOPT:http-user-agent="BearTV"
