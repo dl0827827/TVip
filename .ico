@@ -238,7 +238,6 @@ http://live.vthanhtivi.pw/cinemax/index.m3u8
 #EXTINF:-1 tvg-id="inthebox" group-title="KÊNH PHIM" tvg-logo="https://i.ibb.co/C2yvjj1/inthebox-BEARTV.png", IN THE BOX
 http://sg.tinchuanchuaanh.com:8080/IN_THE_BOX/index.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="KÊNH PHIM" tvg-logo="https://i.ibb.co/XbkM9D2/Box-Hit-BEARTV.png",BOX HITS
-https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
 https://code.hqth.xyz/getlink/mytv/105/hd.m3u8
 
 
@@ -248,9 +247,6 @@ https://code.hqth.xyz/getlink/mytv/105/hd.m3u8
 http://sg.tinchuanchuaanh.com:8080/CARTOON_NETWORK_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="happykids"  group-title="KÊNH THIẾU NHI" tvg-logo="https://i.ibb.co/DYFXjGY/Happy-Kids-BEARTV.png",Happy Kids
 https://code.hqth.xyz/getlink/tv360/212/2.m3u8
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8
-
 
 #EXTINF:-1 tvg-id="boomerang" group-title="KÊNH THIẾU NHI" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Boomerang HD
 http://sg.tinchuanchuaanh.com:8080/BOOMERANG_HD/index.m3u8
@@ -290,16 +286,12 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV3-SD-480p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://i.ibb.co/nL6Lg9X/HTVKEY-BEARTV.png", HTV Key
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://i.ibb.co/mh1GLfY/HTV7-BEARTV.png", HTV7 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
-https://dl.dropboxusercontent.com/s/f66ggfxnbbtdqk1/
-#https://code.vthanhtivi.pw/getlink/vieon/htv7-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://i.ibb.co/4VNDzHh/HTV9-BEARTV.png", HTV9 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
-https://dl.dropboxusercontent.com/s/m7i7p1ag60gbojb/
-#https://code.vthanhtivi.pw/getlink/vieon/htv9-hd/playlist.m3u8
+#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://i.ibb.co/mh1GLfY/HTV7-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV7 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.hqth.xyz/getlink/vieon/htv7-hd/playlist.m3u8
+#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://i.ibb.co/4VNDzHh/HTV9-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV9 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.hqth.xyz/getlink/vieon/htv9-hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://i.ibb.co/PGkqd9K/HTVTHETHAO-BEARTV.png",HTV THỂ THAO HD
 http://live-ali4.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
@@ -361,7 +353,7 @@ https://livecdn.fptplay.net/sdb/binhduong3_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent="BearTV"
 https://code.vthanhtivi.pw/getlink/fptplay/imovie-hd/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="btv5hd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/BTV5png1.jpg", BTV5 - ON Sports Action
-https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
+https://liveh34.vtvcab.vn/hls/ACTION/01.m3u8
 #EXTINF:-1 tvg-id="btv6" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/d6GLN69/BTV6-BEARTV.png",BTV6
 #EXTVLCOPT:http-user-agent="BearTV"
 ttps://code.vthanhtivi.pw/getlink/fptplay/btv6/chunklist_b2500000.m3u8
