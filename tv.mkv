@@ -545,37 +545,16 @@ https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w819569343.m3u8
 https://stream.brt.vn:8081/live/tv2.stream/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="musicbox" group-title="BOX" tvg-logo="https://i.ibb.co/MpYKLcC/Music-Box-BEARTV.png", Box Music
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
-https://dl.dropboxusercontent.com/s/ewbnznsinqaqhlt/ 
-#EXTINF:0 type="stream" group-title="BOX" tvg-id="boxmovie1" tvg-logo="https://i.ibb.co/m84rscz/Box-Movie1-cc.webp",BOX Movie
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
-https://dl.dropboxusercontent.com/s/wms41claawxdpww
-#EXTINF:0 type="stream" group-title="BOX" tvg-id="boxhits" tvg-logo="https://i.ibb.co/JsQ2W4Q/Box-Hits-cc.webp",BOX Hits
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
-https://dl.dropboxusercontent.com/s/67k1qz14740vl5u/
-#EXTINF:0 type="stream" group-title="BOX" tvg-id="inthebox" tvg-logo="https://i.ibb.co/tQTc0r0/Box-Channel-cc.webp",BOX
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
-https://dl.dropboxusercontent.com/s/vb05w85t4tu7wed/
-#EXTINF:0 type="stream" group-title="BOX" tvg-id="hollywoodclassics" tvg-logo="https://i.ibb.co/vLLJPWZ/cchollywood.webp",HLW Classics
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
-https://dl.dropboxusercontent.com/s/8800f62718isn9x/
 
 
 #EXTINF:-1  tvg-id="woman" group-title="QUỐC TẾ TỔNG HỢP" tvg-logo="https://i.ibb.co/92YZhy8/Woman-BEARTV.png",Woman
 #EXTVLCOPT:http-user-agent="BearTV"
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-id="drfithd" group-title="QUỐC TẾ TỔNG HỢP" tvg-logo="https://i.ibb.co/C0hPRy2/Dr-Fit-BEARTV.png",Dr. Fit
+#EXTINF:-1  tvg-id="drfithd" group-title="" tvg-logo="https://i.ibb.co/C0hPRy2/Dr-Fit-BEARTV.png",Dr. Fit
+#EXTINF:0 type="stream" group-title="QUỐC TẾ TỔNG HỢP" tvg-id="drfithd" tvg-logo="https://i.ibb.co/C0hPRy2/Dr-Fit-BEARTV.png",Dr. Fit
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
-https://dl.dropboxusercontent.com/s/mwou63xsgyhuxeo/
-
-
+https://dl.dropboxusercontent.com/s/mwou63xsgyhuxeo/   			ㅤ  				|Referer=https://sctvonline.vn/
 #EXTINF:0 type="stream" group-title="QUỐC TẾ TỔNG HỢP" tvg-id="wildlife" tvg-logo="https://i.ibb.co/7CH2JD5/ccwildlife.png",Wild Life
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaa #EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8
